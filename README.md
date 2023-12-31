@@ -1,4 +1,4 @@
-# Enhanced README: Real-Time Bike-Info Data Pipeline
+# Real-time-bike-data-collection 
 
 This comprehensive guide walks you through setting up a robust, real-time bike-info data pipeline using Kafka, Apache Spark, Elasticsearch, and Kibana. This end-to-end solution empowers you to collect, analyze, visualize, and store bicycle station data, offering dynamic insights into station availability and trends.
 
