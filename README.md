@@ -63,13 +63,11 @@ To get everything up and running, follow these steps:
 1. **Start Elasticsearch:**
    ```bash
    sudo systemctl start elasticsearch
-   sudo systemctl enable elasticsearch
    ```
 
 2. **Start Kibana:**
    ```bash
    sudo systemctl start kibana
-   sudo systemctl enable kibana
    ```
 
 3. **Launch Zookeeper:**
